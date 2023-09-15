@@ -1,0 +1,18 @@
+.youtube {
+  max-width: 95%;
+}
+
+.youtube iframe {
+  border-radius: 20px;
+}
+
+.movie-info ul > li {
+  float: left;
+  text-align: center;
+  margin-right: 29px;
+  margin-left: 6px;
+}
+
+.star {
+  color: #cbae1e !important;
+}

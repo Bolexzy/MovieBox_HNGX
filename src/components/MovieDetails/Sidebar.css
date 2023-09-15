@@ -1,0 +1,8 @@
+* {
+  font-family: "DM sans", sans-serif !important;
+  line-height: 24px;
+}
+
+.sidebar-box {
+  border-top-right-radius: 10px !important;
+}

@@ -1,0 +1,31 @@
+.description-box {
+  color: #ffff;
+}
+
+.description {
+  max-width: 300px;
+}
+
+.description-box .watch-trailer {
+  background-color: #be123c;
+  color: #ffff;
+  display: flex;
+  padding: 6px 16px;
+  align-items: center;
+  gap: 8px;
+  font-weight: 700;
+  line-height: 24px;
+  text-transform: uppercase;
+}
+
+.description-box .rating {
+  display: flex;
+  gap: 10px;
+}
+
+.description-box .rating-text {
+  font-style: normal;
+  font-weight: 400;
+  line-height: 12px;
+  align-self: center;
+}
